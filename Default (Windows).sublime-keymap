@@ -1,0 +1,6 @@
+[
+{
+  "keys": ["ctrl+shift+l"],
+  "command": "query_to_js_string"
+}
+]

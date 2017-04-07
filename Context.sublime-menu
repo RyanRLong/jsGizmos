@@ -1,0 +1,14 @@
+[
+{
+    "id": "jsGizmo",
+    "caption": "jsGizmo",
+    "children": [
+      {
+        "caption": "SQLtoJsString",
+        "command": "query_to_js_string"
+      }
+    ]
+}
+]
+
+
